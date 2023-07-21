@@ -1,0 +1,22 @@
+{
+  "name": "multipule",
+  "version": "1.0.0",
+  "description": "Learning bootstrap v% with sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass  --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "leasrn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "tammi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.10.5"
+  }
+}

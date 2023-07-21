@@ -1,0 +1,25 @@
+
+//IMPORT THE COMPONENTS
+
+@use '../scss/components/buttons';
+@use '../scss/components/typography';
+@use '../scss/components/animations';
+@use '../scss/components/mixins';
+
+//IMPORT THR SECTION
+
+@use '../scss/section/navbar';
+@use '../scss/section/about_section';
+@use '../scss/section/blog_section';
+@use '../scss/section/brand_section';
+@use '../scss/section/events_section';
+@use '../scss/section/faq_section';
+@use '../scss/section/feature_section';
+@use '../scss/section/intro_section';
+@use '../scss/section/newsletter_section';
+@use '../scss/section/our_awards_section';
+@use '../scss/section/portfolio_section';
+@use '../scss/section/service_section';
+@use '../scss/section/team_section';
+@use '../scss/section/testimonials_section';
+

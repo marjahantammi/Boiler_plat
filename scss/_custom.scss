@@ -1,0 +1,68 @@
+
+//MY THEME COLORS
+$dark-blue:  #28293E;
+$baby-pink :  #FDF0E9;
+$border-color : #EF6D58;
+$text-color: #391400;
+
+// #######################################
+//		NO NEED TO CUSTOM THE GRAY COLOR IF YOU DO NOT
+// #######################################
+
+$dark-blue: $dark-blue;
+$baby-pink: $baby-pink;
+$border-color: $border-color;
+$text-color: $text-color;
+
+
+
+
+
+$purple-dark:  #9926f0;
+$purple-light:  #BB6EF5;
+$pink:    #d122e3;
+$footer: #151414;
+
+// Neutral
+
+$Black: #263238;
+$D_Grey: #4D4D4D;
+$Grey: #717171;
+$L_Grey: #89939E;
+$Grey-blue: #ABBED1;
+$Silver: #F5F7FA;
+$White: #FFFFFF;
+
+//PRIMARY Color Shade
+
+$Shade :    #43A046;
+$Shade :    #388E3B;
+$Shade :   #237D31;
+$Shade :    #1B5E1F;
+$Shade :    #103E13;
+
+//Color Tint
+
+$Tint : #66BB69;
+$Tint : #81C784;
+$Tint : #A5D6A7;
+$Tint : #C8E6C9;
+$Tint : #E8F5E9;
+
+//Action
+$Warning: #FBC02D;
+$Error :E53835;
+$Success: #2E7D31;
+
+
+// #######################################
+//		NO NEED TO CUSTOM THE GRAY COLOR IF YOU DO NOT
+// #######################################
+
+
+
+// ##########################################
+//   OPTION 1: 
+// - IMPORT BOOTSTRAP ( The entire bootstrap with everything)
+// ##########################################
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
